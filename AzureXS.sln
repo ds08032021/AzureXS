@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureXS", "AzureXS\AzureXS.deployproj", "{1ABDB738-C4B7-4BC3-AC58-2053CC8254DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABDB738-C4B7-4BC3-AC58-2053CC8254DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABDB738-C4B7-4BC3-AC58-2053CC8254DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABDB738-C4B7-4BC3-AC58-2053CC8254DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABDB738-C4B7-4BC3-AC58-2053CC8254DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BAFC364-FF6A-4C93-B1F2-A122BF0E1166}
+	EndGlobalSection
+EndGlobal
